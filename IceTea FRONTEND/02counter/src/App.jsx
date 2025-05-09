@@ -10,7 +10,7 @@ function App() {
     setCounter(counter + 1)
   }
 
-  // We can write use Sate in this way also 
+  // We can write use State in this way also 
   const remValue = () => {
     let newcounter = counter -1 
     setCounter(newcounter)
